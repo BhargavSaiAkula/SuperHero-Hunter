@@ -3,7 +3,7 @@ This is a superHero Hunter App
 <h2>front page</h2>
 ![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/122.png)
 <h2>about</h2>
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/124.png)
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/about.png)
 <h2>favourites</h2>
 ![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/125.png)
 
