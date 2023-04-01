@@ -1,5 +1,6 @@
-# superherohunter
-This is a superHero Hunter App
+﻿# SuperHero-Hunter
+Host Link : 
+https://bhargav-sai-1304.netlify.app/index.html
 <h2>front page</h2>
 ![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/122.png)
 <h2>about</h2>
