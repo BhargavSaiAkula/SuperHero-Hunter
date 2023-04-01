@@ -1,5 +1,13 @@
 # superherohunter
 This is a superHero Hunter App
+<h2>front page</h2>
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/122.png)
+<h2>about</h2>
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/124.png)
+<h2>favourites</h2>
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/125.png)
+
+
 1. We are using vanilla JS plus basic HTML and CSS for development
 2. Three pages are present 
   1. Index (which is the Homapage)
