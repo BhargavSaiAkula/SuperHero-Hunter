@@ -2,13 +2,12 @@
 Host Link : https://bhargavsaiakula.github.io/SuperHero-Hunter/
 I Have used the<a href=""> Marvel superhero api</a> 
 #front page
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/122.png)
-#searching heros
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/123.png)
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/homepage.png)
+
 #about
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/124.png)
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/about.png)
 #favourites
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/125.png)
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/likedpage.png)
 
 
 1. We are using vanilla JS plus basic HTML and CSS for development
