@@ -1,12 +1,12 @@
 ﻿# SuperHero-Hunter
 Host Link : https://bhargavsaiakula.github.io/SuperHero-Hunter/
 I Have used the<a href=""> Marvel superhero api</a> 
-<h2>front page</h2>
+
 ![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/homepage.png)
 
-<h2>about</h2>
+
 ![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/about.png)
-<h2>favourites</h2>
+
 ![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/likedpage.png)
 
 
@@ -21,7 +21,7 @@ I Have used the<a href=""> Marvel superhero api</a>
 6. I have used the localStorage of browser so that the list is presistant.
 
 <h1>Features</h1> 
-<h3>Home Page<?h3>
+<h3>Home Page</h3>
 Fetch and display a list of SuperHeros (Characters) on the home page. Also create a search bar that will filter out the character based on search query. Suppose I type “bat” in the search box, it should show “batman”. 
 [ API example https://gateway.marvel.com:443/v1/public/characters?ts=<time-stamp>&apikey=<public-key>&hash=<md5(ts+privateKey+publicKey)>]
 Each search result of the superhero should have a favorite button, clicking on which superhero should be added to “My favorite superheroes” (a list).
