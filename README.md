@@ -1,13 +1,13 @@
 ﻿# SuperHero-Hunter
 Host Link : https://bhargavsaiakula.github.io/SuperHero-Hunter/
 <h2>front page</h2>
-![homepage](https://user-images.githubusercontent.com/121541530/229271812-aeca9917-9834-47a6-ba8a-eff02bd9910e.png)
-
+![homepage](https://user-images.githubusercontent.com/121541530/229272136-fd9ef9ac-6887-45f1-980a-fcba549d694f.png)
 <h2>about</h2>
-![about](https://user-images.githubusercontent.com/121541530/229271821-f66a2bef-c05f-48d4-9781-d87259a78a63.png)
+![about](https://user-images.githubusercontent.com/121541530/229272135-f8c868e6-119c-4953-98ae-bd7dba7eb8cb.png)
 
 <h2>favourites</h2>
-![likedpage](https://user-images.githubusercontent.com/121541530/229271836-d6d3428d-df07-4c7d-85fe-db3a56e24211.png)
+![likedpage](https://user-images.githubusercontent.com/121541530/229272134-57be8660-4e4c-4c9c-9a68-e5b75c96d1e4.png)
+
 
 
 1. We are using vanilla JS plus basic HTML and CSS for development
