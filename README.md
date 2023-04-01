@@ -2,11 +2,13 @@
 Host Link : 
 https://bhargav-sai-1304.netlify.app/index.html
 <h2>front page</h2>
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/122.png)
+![homepage](https://user-images.githubusercontent.com/121541530/229271812-aeca9917-9834-47a6-ba8a-eff02bd9910e.png)
+
 <h2>about</h2>
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/SuperHero-Hunter/blob/main/image/about.png)
+![about](https://user-images.githubusercontent.com/121541530/229271821-f66a2bef-c05f-48d4-9781-d87259a78a63.png)
+
 <h2>favourites</h2>
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/superheroH/blob/main/screenshot/125.png)
+![likedpage](https://user-images.githubusercontent.com/121541530/229271836-d6d3428d-df07-4c7d-85fe-db3a56e24211.png)
 
 
 1. We are using vanilla JS plus basic HTML and CSS for development
