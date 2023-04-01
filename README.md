@@ -1,6 +1,5 @@
 ﻿# SuperHero-Hunter
-Host Link : 
-https://bhargav-sai-1304.netlify.app/index.html
+Host Link : https://bhargavsaiakula.github.io/SuperHero-Hunter/
 <h2>front page</h2>
 ![homepage](https://user-images.githubusercontent.com/121541530/229271812-aeca9917-9834-47a6-ba8a-eff02bd9910e.png)
 
