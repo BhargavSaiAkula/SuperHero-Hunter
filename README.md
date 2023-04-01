@@ -1,5 +1,6 @@
 ﻿# SuperHero-Hunter
 Host Link : https://bhargavsaiakula.github.io/SuperHero-Hunter/
+I Have used the<a href=""> Marvel superhero api</a> 
 <h2>front page</h2>
 ![homepage](https://user-images.githubusercontent.com/121541530/229272136-fd9ef9ac-6887-45f1-980a-fcba549d694f.png)
 <h2>about</h2>
